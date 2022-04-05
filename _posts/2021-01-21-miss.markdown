@@ -21,18 +21,17 @@ date:   2021-08-30
 ### Misallocation of talent, human capital formation, and development in Brazil
 
 
-In this paper, we elaborate a General Equilibrium Model to study why the relative wage
-of teachers is higher in low and middle income regions in Brazil. We define a Roy model
-where there is an externality in the occupational occupational choice because teachers’
-human capital is important to the formation of human capital of all workers. Then,
-when people with more idiosyncratic ability choose to become a teacher, all the workforce
-has benefits. However, in our model individuals’ occupational decisions are distorted by
-barriers in the labor and educational goods markets, which in turn cause a misallocation
-of talent and harm economic growth. After calibrating the model using the Method of
-Moments and data from Brazil, we find that distortions are an important factor to explain
-differences in relative wages. Moreover, we performed a series of counterfactual exercises
-that show that reducing distortions in the labor and educational market would increase
-Brazilian GDP by a value between 9.19% and 43.49%.
+We study talent allocation in an economy where teachers play a crucial role in forming
+the workforce’s human capital. We define a Roy model with an externality in the occupational choice because teachers’ 
+quantity and quality are essential to workers’ human capital. Then, when individuals with more abilities choose to become teachers, 
+all workforce benefits. However, in our model, individuals’ occupational decisions are distorted
+by frictions in the labor and educational goods markets, which may cause a misallocation
+of talent and harm economic growth and development. After calibrating the model to
+the Brazilian economy, we find that removing the friction in the labor market increase
+the Brazilian income by 16.94%. Also, if we assume that the barriers to becoming a
+teacher across the Brazilian regions are equal to the state with the highest average teachers’ human capital, 
+GDP would increase by 87.85% due to externalities of the teacher’s
+occupation.
 Keywords: Misallocation; Frictions; Human Capital; Externalities; Development;
 
 [Link](https://mj-ribeiro.github.io/miss.pdf)
