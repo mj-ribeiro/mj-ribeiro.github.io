@@ -5,10 +5,19 @@ mathjax: true
 title: "Apêndice Online do Artigo" 
 date:   2022-05-30
 ---
-
-<!DOCTYPE html>
-
-<html>
+<head>
+    <meta charset="UTF-8"/>
+    <style>
+        body{
+	    margin: 0px;
+            background-color: hsla(195,81%,93%, 0.6);
+            color: rgba(0,0,0,1);
+        }
+        p{
+            text-align: justify;
+        }
+    </style>
+</head>
 
 <head>
 
