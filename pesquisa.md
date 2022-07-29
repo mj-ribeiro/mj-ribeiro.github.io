@@ -1,5 +1,8 @@
 
 
+[Evolução dos retornos da escolaridade no Brasil](https://mj-ribeiro.github.io/evol_rets.pdf) com [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) e [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR) 
+
+
 [Misallocation of talent, human capital formation, and development in Brazil](https://mj-ribeiro.github.io/miss.pdf) com [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) e [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR) 
 
 
