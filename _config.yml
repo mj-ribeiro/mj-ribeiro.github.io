@@ -18,11 +18,12 @@ navigation:
     url: /about
   - title: Pesquisa
     url: /pesquisa
+  - title: Ensino
+    url: /ensino
  
 
 social:
   github: mj-ribeiro
-  facebook: Marcos.Junio.mindstrike
   linkedin: marcos-ribeiro-economics-analysis
   email: mjribeiro@usp.br
 
