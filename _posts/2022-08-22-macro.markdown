@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: "Monitoria de Macroeconomia 2" 
+title: "Macroeconomia 2" 
 date:   2022-08-22
 ---
 <head>
@@ -17,4 +17,8 @@ date:   2022-08-22
     </style>
 </head>
 
-# Macroeconomia 2
+
+#### Exercícios Computacionais
+
+[Taxa de Juros real no Brasil](https://mj-ribeiro.github.io/blog/tx_juros/)
+
