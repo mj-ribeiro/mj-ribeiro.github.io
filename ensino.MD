@@ -2,9 +2,10 @@
 
 ## FEARP/USP
 
-- [Econometria](https://mj-ribeiro.github.io/blog/econometria/)
+- [Macroeconomia 2 \ 2022](https://mj-ribeiro.github.io/blog/macro/) 
 
-- [Macroeconomia 2](https://mj-ribeiro.github.io/blog/macro/)
+- [Econometria \ 2020](https://mj-ribeiro.github.io/blog/econometria/) 
+
 
 ## YouTube
 
