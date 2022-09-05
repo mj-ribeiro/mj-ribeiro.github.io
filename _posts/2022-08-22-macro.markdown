@@ -18,7 +18,21 @@ date:   2022-08-22
 </head>
 
 
+
+#### Listas de exercícios
+
+
+[Lista 1](https://mj-ribeiro.github.io/LISTA_1.pdf)
+
+
 #### Exercícios Computacionais
 
 [Taxa de Juros real no Brasil](https://mj-ribeiro.github.io/blog/tx_juros/)
+
+
+
+
+
+
+
 
