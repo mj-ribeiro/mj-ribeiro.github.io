@@ -29,7 +29,7 @@ date:   2022-08-22
 
 [Taxa de Juros real no Brasil](https://mj-ribeiro.github.io/blog/tx_juros/)
 
-
+[Problema do consumidor no deserto](https://mj-ribeiro.github.io/blog/consumidor/)
 
 
 
