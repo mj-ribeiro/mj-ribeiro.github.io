@@ -1922,7 +1922,7 @@ valor inicial para o consumo, que vai ser de <span class="math inline">\(0.1\)</
 <div class="sourceCode" id="cb7"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>T <span class="op">=</span> <span class="dv">10</span>    </span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>chute <span class="op">=</span> np.ones(T, <span class="bu">float</span>)<span class="op">*</span><span class="fl">0.1</span></span></code></pre></div>
-<p>Vou utilizar a função <code>optimize.fmin_slsqp</code> do Scipy para
+<p>Vou utilizar a função <code>minimize</code> do Scipy para
 achar a trajetória ótima do consumo ao longo desses dez dias. O primeiro
 parâmetro dessa função é a função de bem estar que criei, o segundo é o
 chute inicial o terceiro é o método de otimização que utilizamos e o
