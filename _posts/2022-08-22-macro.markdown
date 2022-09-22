@@ -21,15 +21,23 @@ date:   2022-08-22
 
 #### Listas de exercícios
 
+[Lista 2](https://mj-ribeiro.github.io/LISTA_2.pdf)
 
 [Lista 1](https://mj-ribeiro.github.io/LISTA_1.pdf)
 
 
+#### Gabaritos
+
+[Gabarito 1](https://mj-ribeiro.github.io/gabarito_1.pdf)
+
+
 #### Exercícios Computacionais
+
+[Problema do consumidor no deserto](https://mj-ribeiro.github.io/blog/consumidor/)
 
 [Taxa de Juros real no Brasil](https://mj-ribeiro.github.io/blog/tx_juros/)
 
-[Problema do consumidor no deserto](https://mj-ribeiro.github.io/blog/consumidor/)
+
 
 
 
