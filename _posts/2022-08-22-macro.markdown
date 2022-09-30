@@ -28,10 +28,14 @@ date:   2022-08-22
 
 #### Gabaritos
 
+[Gabarito 2](https://mj-ribeiro.github.io/gabarito_2.pdf)
+
 [Gabarito 1](https://mj-ribeiro.github.io/gabarito_1.pdf)
 
 
 #### Exercícios Computacionais
+
+[Poupança precaucional](https://mj-ribeiro.github.io/blog/poupan%C3%A7a/)
 
 [Problema do consumidor no deserto](https://mj-ribeiro.github.io/blog/consumidor/)
 
