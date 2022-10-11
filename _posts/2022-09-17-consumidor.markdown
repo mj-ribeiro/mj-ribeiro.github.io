@@ -1799,7 +1799,7 @@ escrever a Equação 7 como:</p>
 \tag{8}
 c_{T-1} = \dfrac{c_{T}}{\beta} = \dfrac{k_{T}}{\beta},     
 \end{equation}\]</span></p>
-<p>Agora vamos substituir a restrição orçamentária <span class="math inline">\((k_{T} = c_{T-1} - k_{T-1}\)</span>) nessa última
+<p>Agora vamos substituir a restrição orçamentária <span class="math inline">\((k_{T} = k_{T-1} - c_{T-1}\)</span>) nessa última
 Equação:</p>
 <p><span class="math display">\[c_{T-1} = \frac{1}{\beta} (k_{T-1} -
 c_{T-1}),\]</span></p>
@@ -1816,7 +1816,7 @@ temos:</p>
 nessa última Equação pela Equação 9:</p>
 <p><span class="math display">\[c_{T-2} = \left( \dfrac{1}{\beta +
 \beta^2} \right) k_{T-1},\]</span></p>
-<p>O próximo passo é substituir a restrição orçamentária <span class="math inline">\((k_{T-1} = c_{T-2} - k_{T-2}\)</span>) nessa
+<p>O próximo passo é substituir a restrição orçamentária <span class="math inline">\((k_{T-1} = k_{T-2} - c_{T-2}\)</span>) nessa
 última Equação e resolver para <span class="math inline">\(c_{T-2}\)</span>:</p>
 <p><span class="math display">\[\begin{equation}
     c_{T-2} = \left( \dfrac{1}{1+\beta + \beta^2} \right) k_{T-2},
