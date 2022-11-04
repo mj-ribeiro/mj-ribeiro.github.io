@@ -30,6 +30,8 @@ date:   2022-08-22
 
 #### Gabaritos
 
+[Gabarito 3](https://mj-ribeiro.github.io/gabarito_3.pdf)
+
 [Gabarito 2](https://mj-ribeiro.github.io/gabarito_2.pdf)
 
 [Gabarito 1](https://mj-ribeiro.github.io/gabarito_1.pdf)
