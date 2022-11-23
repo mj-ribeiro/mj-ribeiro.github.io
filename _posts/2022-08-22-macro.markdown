@@ -21,6 +21,9 @@ date:   2022-08-22
 
 #### Listas de exercícios
 
+
+[Lista 5](https://mj-ribeiro.github.io/LISTA_5.pdf)
+
 [Lista 4](https://mj-ribeiro.github.io/LISTA_4.pdf)
 
 [Lista 3](https://mj-ribeiro.github.io/LISTA_3.pdf)
