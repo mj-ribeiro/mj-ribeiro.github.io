@@ -17,8 +17,7 @@ Também sou o criador do canal [Alien Economista](https://www.youtube.com/channe
 
 ![presentation](\assets\img\mjr_rj.jpg "Apresentação no Rio de Janeiro")
 
-<img src=\assets\img\mjr_rj.jpg width=100%> 
+<img src= assets/img/mjr_rj.jpg width=100% /> 
 
 
-![alien](\assets\img\fundo2.png)
 
