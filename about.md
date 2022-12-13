@@ -15,9 +15,6 @@ Também sou o criador do canal [Alien Economista](https://www.youtube.com/channe
 [Research Gate](https://www.researchgate.net/profile/Marcos_Ribeiro14)
 
 
-![presentation](\assets\img\mjr_rj.jpg "Apresentação no Rio de Janeiro")
-
-<img src= assets/img/mjr_rj.jpg width=100% /> 
-
+![presentation](\assets\img\mjr_rj.jpg "Apresentação no Rio de Janeiro"){ width=50% }
 
 
