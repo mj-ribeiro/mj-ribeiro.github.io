@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Sobre Marcos Júnio Ribeiro
+title: About 
 ---
 
-Welcome to my website! 
-
+##### Welcome to my website! 
 
 <P align="justify"> I'm economist and I'm doing a PhD in applied economics at FEARP USP.
 I currently work at Agromove as an economist and data scientist. 
@@ -13,7 +12,7 @@ and Computational Economics. I am also interested in applied econometrics,
 machine learning and numerical methods.</P>
 
 
-[CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
+[CV Lattes.](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
 
 
 ##### Photos at congresses
@@ -29,7 +28,12 @@ machine learning and numerical methods.</P>
 
 <style>
 div.box {
-	width: 400px;
+	width: 500px;
 	display: inline-block;
 }
 </style>
+
+
+
+
+
