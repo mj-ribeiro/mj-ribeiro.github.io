@@ -18,3 +18,4 @@ machine learning and numerical methods.</P>
 
 ![presentation2](\assets\img\anpec2.jpg "Apresentação na anpec")
 
+<img src="\assets\img\mjr_rj.jpg" width="100" title = 'Anpec'>
