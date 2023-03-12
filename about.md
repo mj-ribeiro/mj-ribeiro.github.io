@@ -14,8 +14,18 @@ machine learning and numerical methods.</P>
 
 
 
-![presentation](\assets\img\mjr_rj.jpg "Apresentação no Rio de Janeiro")
+<div class="box">
+    <img src="\assets\img\mjr_rj.jpg"/>
+    <span> ENABER 2019 </span>
+</div>
+<div class="box">
+    <img src="\assets\img\anpec2.jpg"/>
+    <span> ANPEC 2022 </span>
+</div>
 
-![presentation2](\assets\img\anpec2.jpg "Apresentação na anpec")
-
-<img src="\assets\img\mjr_rj.jpg" width="100" title = 'Anpec'>
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+</style>
