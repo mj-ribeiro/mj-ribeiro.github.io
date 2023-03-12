@@ -34,7 +34,7 @@ div.box {
 }
 
 .box img{
-    margin-right: 10px;
+    right: 10px;
 }
 
 </style>
