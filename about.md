@@ -3,14 +3,15 @@ layout: default
 title: Sobre Marcos Júnio Ribeiro
 ---
 
-Olá, sejam bem vindos !!!
-Sou o Marcos Júnio Ribeiro. Graduei em Economia pela Universidade Federal de São João del Rei. 
-Fiz mestrado em Economia Aplicada na Universidade Federal de Viçosa.
-Atualmente faço doutorado em Economia Aplicada na FEARP-USP.
-Atuo nas áreas de crescimento econômico, finanças e economia computacional. 
-Também sou o criador do canal [Alien Economista](https://www.youtube.com/channel/UChWkFzZwrWrfQgZ2PIEJbhg) no YouTube.
+I'm an economist and I'm doing a PhD in applied economics at FEARP USP.
+I currently work at Agromove as an economist and data scientist. 
+Although my main fields of interest are Macroeconomics, Economic Growth and Development,
+and Computational Economics. I am also interested in applied econometrics, 
+specifically to evaluate public policies.
+
 
 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
+
 
 [Research Gate](https://www.researchgate.net/profile/Marcos_Ribeiro14)
 

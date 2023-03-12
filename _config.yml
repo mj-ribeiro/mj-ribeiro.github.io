@@ -12,13 +12,13 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Início
+  - title: Home
     url: /index.html
-  - title: Sobre
+  - title: About
     url: /about
-  - title: Pesquisa
+  - title: Research
     url: /pesquisa
-  - title: Ensino
+  - title: Teaching
     url: /ensino
  
 
