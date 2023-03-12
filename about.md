@@ -28,7 +28,7 @@ machine learning and numerical methods.</P>
 
 <style>
 div.box {
-	width: 480px;
+	width: 490px;
 	display: inline-block;
 	right: 12px;
     }
