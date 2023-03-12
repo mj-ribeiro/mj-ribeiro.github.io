@@ -19,8 +19,7 @@ date:   2022-08-22
 
 
 
-#### Listas de exercícios
-
+#### Exercise Lists
 
 [Lista 5](https://mj-ribeiro.github.io/LISTA_5.pdf)
 
@@ -33,7 +32,7 @@ date:   2022-08-22
 [Lista 1](https://mj-ribeiro.github.io/LISTA_1.pdf)
 
 
-#### Gabaritos
+#### Answers
 
 [Gabarito 4](https://mj-ribeiro.github.io/gabarito_4.pdf)
 
@@ -44,7 +43,7 @@ date:   2022-08-22
 [Gabarito 1](https://mj-ribeiro.github.io/gabarito_1.pdf)
 
 
-#### Exercícios Computacionais
+#### Computational Exercises 
 
 [Poupança precaucional](https://mj-ribeiro.github.io/blog/poupan%C3%A7a/)
 
