@@ -4,7 +4,7 @@ title: Marcos J Ribeiro
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Posts Recentes</h1>
+  <h1 class="pageTitle">Recents Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -17,10 +17,10 @@ title: Marcos J Ribeiro
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Novos Posts</a> 
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">New Posts</a> 
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Velhos Posts</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Old Posts</a>
     {% endif %}
   </div>
 </div>
