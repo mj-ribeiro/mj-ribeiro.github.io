@@ -12,7 +12,8 @@ and Computational Economics. I am also interested in applied econometrics,
 machine learning and numerical methods.</P>
 
 
-[CV Lattes.](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
+[Lattes.](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
+[CV](https://mj-ribeiro.github.io/cv.pdf)
 
 
 ##### Photos at congresses
