@@ -13,6 +13,7 @@ machine learning and numerical methods.</P>
 
 
 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
+
 [CV](https://mj-ribeiro.github.io/cv.pdf)
 
 
