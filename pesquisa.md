@@ -3,7 +3,6 @@ layout: default
 title: Research
 ---
 
-<P align="justify">
 ### Working Papers
 
 [Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
@@ -26,4 +25,3 @@ Spillover effects of intermediate goods and services on income. With [Fernando B
 
 [Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico.](https://mj-ribeiro.github.io/ide_wd.pdf) (Accepted). With [Leonardo Cardoso](https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR).
 
-</P>
