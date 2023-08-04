@@ -6,58 +6,84 @@ date:   2023-04-08
 ---
 
 
-<html>
-
-<head>
-
-<meta charset="utf-8" />
-<meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-
 
 <meta name="author" content="Marcos Júnio Ribeiro" />
 
+<head>
+    <meta name="generator" content="pandoc" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <meta charset="UTF-8"/>
+    <style>
+        body{
+            background-color: hsla(195,81%,93%, 0.6);
+            color: rgba(0,0,0,1);
+        }
+        p{
+            text-align: justify;
+        }
+    </style>
+</head>
 
  
 
-O agronegócio brasileiro vem sofrendo fortes ataques de pessoas ligadas ao governo federal. O mais notável deles foi quando o atual presidente da república Luís Inácio Lula da Silva chamou o agronegócio de fascista em entrevista ao Jornal Nacional quando ainda estava em campanha presidencial. E os ataques não pararam por aí, Jorge Viana, presidente da APEX Brasil (Agência Brasileira de Promoção de Exportações e Investimentos) fez um discurso na China em que atrelou o agronegócio brasileiro ao avanço no desmatamento. Marina Silva, atual ministra do meio ambiente também não poupou esforços ao atacar o agronegócio brasileiro e referir-se a ele como “ogronégocio”. 
+O agronegócio brasileiro vem sofrendo fortes ataques de pessoas ligadas ao governo federal. O mais notável deles foi quando o atual presidente da república 
+Luís Inácio Lula da Silva chamou o agronegócio de fascista em entrevista ao Jornal Nacional quando ainda estava em campanha presidencial. E os ataques não 
+pararam por aí, Jorge Viana, presidente da APEX Brasil (Agência Brasileira de Promoção de Exportações e Investimentos) fez um discurso na China em que atrelou
+ o agronegócio brasileiro ao avanço no desmatamento. Marina Silva, atual ministra do meio ambiente também não poupou esforços ao atacar o agronegócio brasileiro 
+e referir-se a ele como “ogronégocio”. 
 
-Ao que tudo indica, quando se trata do agronegócio brasileiro, os membros do atual governo sobretudo quem prometeu picanha e cerveja para os brasileiros, parecem estar vendo somente a metade vazia do copo.  A metade cheia é que o agronegócio brasileiro, que não tem nada de ogro, é um setor bastante relevante para a economia brasileira. Vamos aos fatos!
 
-A Figura 1 mostra que a produtividade do trabalho no agronegócio brasileiro foi a única que cresceu entre 1995 e 2022, enquanto que a produtividade da indústria e dos serviços ficou praticamente estagnada. De acordo com Abbade (2014) o aumento da produtividade no setor agropecuário pode ser consequência dos investimentos em desenvolvimento agrário, compra de máquinas e equipamentos agrícolas, e, do uso de fertilizantes. Esse investimento vem sendo feito ao longo do tempo sobretudo para atender as demandas internas e externas e está fazendo com que o Brasil consolide cada vez mais como grande exportador de commodities agrícolas. 
+Ao que tudo indica, quando se trata do agronegócio brasileiro, os membros do atual governo sobretudo quem prometeu picanha e cerveja para os brasileiros, parecem estar
+vendo somente a metade vazia do copo.  A metade cheia é que o agronegócio brasileiro, que não tem nada de ogro, é um setor bastante relevante para a economia brasileira.
+Vamos aos fatos!
 
 
-
+A Figura 1 mostra que a produtividade do trabalho no agronegócio brasileiro foi a única que cresceu entre 1995 e 2022, enquanto que a produtividade da indústria e dos 
+serviços ficou praticamente estagnada. De acordo com Abbade (2014) o aumento da produtividade no setor agropecuário pode ser consequência dos investimentos em desenvolvimento
+agrário, compra de máquinas e equipamentos agrícolas, e, do uso de fertilizantes. Esse investimento vem sendo feito ao longo do tempo sobretudo para atender as demandas
+internas e externas e está fazendo com que o Brasil consolide cada vez mais como grande exportador de commodities agrícolas. 
 
 
 <a name="_ref140686960"></a>Figura 1 Evolução da produtividade do trabalho no Brasil – 1995:2022
 
-![](Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.001.png)
+![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.001.png)
 
 `       `Fonte: Elaborado pelo autor com dados do Instituto Brasileiro de Economia (IBRE)
 
 
-Na Figura 2 apresentamos a evolução da participação dos setores da economia brasileira no mercado mundial e de cara notamos que o setor agropecuário é o setor mais relevante ao longo de toda a série, e, foi um dos poucos que cresceu, saltando de 2,51% em 1994 para 4,5% em 2020. O sucesso do Brasil como agroexportador contribui para a geração de divisas internacionais e equilíbrio da balança comercial, geração de empregos, e, aumento da renda nacional. 
+
+Na Figura 2 apresentamos a evolução da participação dos setores da economia brasileira no mercado mundial e de cara notamos que o setor agropecuário é o 
+setor mais relevante ao longo de toda a série, e, foi um dos poucos que cresceu, saltando de 2,51% em 1994 para 4,5% em 2020. O sucesso do Brasil como
+ agroexportador contribui para a geração de divisas internacionais e equilíbrio da balança comercial, geração de empregos, e, aumento da renda nacional. 
 
 `     	`<a name="_ref140687091"></a>Figura 2 Participação dos setores da economia brasileira no mercado mundial – 1994:2020
 
-![](Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
+![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
 
 Fonte: Elaborado pelo autor com dados de 2020 do Atlas da Complexidade.
 
 
-A Figura 3 mostra que soja brasileira é responsável por 11,9% do valor total das exportações. A soja é utilizada na produção de óleo vegetal, farelo de soja e também serve como insumo na indústria de alimentos. Outras commodities também tem ganhado bastante destaque nas exportações brasileiras são a cana de açúcar, milho, café e a carne bovina. Destacamos que o Brasil é um dos maiores exportadores de carne bovina do mundo. Esses fatos mostram que o agronegócio brasileiro é bastante diversificado. Enfatizamos também que o PIB do agronegócio brasileiro cresceu 21,6% no primeiro trimestre de 2023 em relação ao mesmo período do ano anterior, alavancado sobretudo pelas safras recordes de soja. Esse fato fez com que o PIB brasileiro crescesse 1,9% no primeiro trimestre do ano, o que surpreendeu muitos analistas, e, é claro, rendeu louros políticos ao atual governo.
-
+A Figura 3 mostra que soja brasileira é responsável por 11,9% do valor total das exportações. A soja é utilizada na produção de óleo vegetal, farelo de soja e 
+também serve como insumo na indústria de alimentos. Outras commodities também tem ganhado bastante destaque nas exportações brasileiras são a cana de açúcar, milho,
+café e a carne bovina. Destacamos que o Brasil é um dos maiores exportadores de carne bovina do mundo. Esses fatos mostram que o agronegócio brasileiro é bastante 
+diversificado. Enfatizamos também que o PIB do agronegócio brasileiro cresceu 21,6% no primeiro trimestre de 2023 em relação ao mesmo período do ano anterior, alavancado
+sobretudo pelas safras recordes de soja. Esse fato fez com que o PIB brasileiro crescesse 1,9% no primeiro trimestre do ano, o que surpreendeu muitos analistas, e, é claro,
+rendeu louros políticos ao atual governo.
 
 
 `  `<a name="_ref140687784"></a>Figura 3 Participação dos produtos nas exportações brasileiras
 
-![](Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png)
+![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png)
 
 Fonte: Adaptado do Atlas da Complexidade.
 
 
-Embora haja críticas ao setor agrícola no Brasil, sobretudo em relação a questão ambiental, um estudo do IPEA mostra que o Brasil tem preservado área substancial de matas nativas e se destaca na construção de uma economia de baixo carbono. Em janeiro de 2023 a Associação Brasileira dos Produtores de Soja (Aprosoja), preocupada com os ataques ao setor por parte de pessoas que prometeram picanha e cerveja aos brasileiros, destacou em nota que o Brasil possui legislação ambiental moderna e restritiva e que problemas, como o desmatamento ilegal, devem ser combatidos dentro dos mecanismos legais existentes. Terminamos nossa prosa enfatizando que não há como produzir picanha e cerveja sem nosso importante agronegócio, que ao que tudo indica é um TOPnegócio.
+Embora haja críticas ao setor agrícola no Brasil, sobretudo em relação a questão ambiental, um estudo do IPEA mostra que o Brasil tem preservado área substancial de matas
+nativas e se destaca na construção de uma economia de baixo carbono. Em janeiro de 2023 a Associação Brasileira dos Produtores de Soja (Aprosoja), preocupada com os ataques
+ao setor por parte de pessoas que prometeram picanha e cerveja aos brasileiros, destacou em nota que o Brasil possui legislação ambiental moderna e restritiva e que problemas,
+como o desmatamento ilegal, devem ser combatidos dentro dos mecanismos legais existentes. Terminamos nossa prosa enfatizando que não há como produzir picanha e cerveja sem nosso
+importante agronegócio, que ao que tudo indica é um TOPnegócio.
+
 
 
 Referências
