@@ -45,7 +45,9 @@ internas e externas e está fazendo com que o Brasil consolide cada vez mais com
 
 
 ![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.001.png)
+
 <a name="_ref140686960"></a>Figura 1 Evolução da produtividade do trabalho no Brasil – 1995:2022
+
 Fonte: Elaborado pelo autor com dados do Instituto Brasileiro de Economia (IBRE)
 
 
@@ -57,7 +59,9 @@ setor mais relevante ao longo de toda a série, e, foi um dos poucos que cresceu
 
 
 ![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
+
 <a name="_ref140687091"></a>Figura 2 Participação dos setores da economia brasileira no mercado mundial – 1994:2020
+
 Fonte: Elaborado pelo autor com dados de 2020 do Atlas da Complexidade.
 
 
@@ -69,9 +73,9 @@ sobretudo pelas safras recordes de soja. Esse fato fez com que o PIB brasileiro 
 rendeu louros políticos ao atual governo.
 
 
-<a name="_ref140687784"></a>Figura 3 Participação dos produtos nas exportações brasileiras
+![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png)
 
-<img src = "D:\Git projects\blog\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png" width = "800px" heigth = "600px"/>
+<a name="_ref140687784"></a>Figura 3 Participação dos produtos nas exportações brasileiras
 
 Fonte: Adaptado do Atlas da Complexidade.  
 
