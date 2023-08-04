@@ -59,6 +59,7 @@ setor mais relevante ao longo de toda a série, e, foi um dos poucos que cresceu
 
 <a name="_ref140687091"></a>Figura 2 Participação dos setores da economia brasileira no mercado mundial – 1994:2020
 ![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
+
 Fonte: Elaborado pelo autor com dados de 2020 do Atlas da Complexidade.
 
 
@@ -72,9 +73,9 @@ rendeu louros políticos ao atual governo.
 
 <a name="_ref140687784"></a>Figura 3 Participação dos produtos nas exportações brasileiras
 
-<img src = \assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png width = "800px" heigth = "600px">
+<img src = "D:\Git projects\blog\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png" width = "800px" heigth = "600px">
 
-`  `Fonte: Adaptado do Atlas da Complexidade.   TESTE
+`  `Fonte: Adaptado do Atlas da Complexidade.  
 
 
 Embora haja críticas ao setor agrícola no Brasil, sobretudo em relação a questão ambiental, um estudo do IPEA mostra que o Brasil tem preservado área substancial de matas
