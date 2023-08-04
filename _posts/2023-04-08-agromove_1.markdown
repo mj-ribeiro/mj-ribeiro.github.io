@@ -74,7 +74,7 @@ rendeu louros políticos ao atual governo.
 
 <img src = \assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png width = "800px" heigth = "600px">
 
-`  `Fonte: Adaptado do Atlas da Complexidade.
+`  `Fonte: Adaptado do Atlas da Complexidade.   TESTE
 
 
 Embora haja críticas ao setor agrícola no Brasil, sobretudo em relação a questão ambiental, um estudo do IPEA mostra que o Brasil tem preservado área substancial de matas
