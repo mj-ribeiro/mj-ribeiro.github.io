@@ -44,10 +44,8 @@ agrário, compra de máquinas e equipamentos agrícolas, e, do uso de fertilizan
 internas e externas e está fazendo com que o Brasil consolide cada vez mais como grande exportador de commodities agrícolas. 
 
 
-<a name="_ref140686960"></a>Figura 1 Evolução da produtividade do trabalho no Brasil – 1995:2022
-
 ![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.001.png)
-
+<a name="_ref140686960"></a>Figura 1 Evolução da produtividade do trabalho no Brasil – 1995:2022
 Fonte: Elaborado pelo autor com dados do Instituto Brasileiro de Economia (IBRE)
 
 
@@ -57,9 +55,9 @@ setor mais relevante ao longo de toda a série, e, foi um dos poucos que cresceu
  agroexportador contribui para a geração de divisas internacionais e equilíbrio da balança comercial, geração de empregos, e, aumento da renda nacional. 
 
 
-<a name="_ref140687091"></a>Figura 2 Participação dos setores da economia brasileira no mercado mundial – 1994:2020
-![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
 
+![](\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.002.png)
+<a name="_ref140687091"></a>Figura 2 Participação dos setores da economia brasileira no mercado mundial – 1994:2020
 Fonte: Elaborado pelo autor com dados de 2020 do Atlas da Complexidade.
 
 
@@ -73,9 +71,9 @@ rendeu louros políticos ao atual governo.
 
 <a name="_ref140687784"></a>Figura 3 Participação dos produtos nas exportações brasileiras
 
-<img src = "D:\Git projects\blog\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png" width = "800px" heigth = "600px">
+<img src = "D:\Git projects\blog\assets\img\Aspose.Words.930338a6-db66-4cc2-8c13-0ee0dce6e1b7.003.png" width = "800px" heigth = "600px"/>
 
-`  `Fonte: Adaptado do Atlas da Complexidade.  
+Fonte: Adaptado do Atlas da Complexidade.  
 
 
 Embora haja críticas ao setor agrícola no Brasil, sobretudo em relação a questão ambiental, um estudo do IPEA mostra que o Brasil tem preservado área substancial de matas
