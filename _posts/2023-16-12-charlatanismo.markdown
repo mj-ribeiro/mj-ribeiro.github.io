@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: "Sobre a Gênese do Charlatanismo" 
-date:   2023-16-12
+date:   2023-12-16
 ---
 
 
