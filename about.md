@@ -5,11 +5,7 @@ title: About
 
 ##### Welcome to my website! 
 
-<P align="justify"> I'm economist and I'm doing a PhD in applied economics at FEARP USP.
-I currently work at Agromove as an economist and data scientist. 
-My main fields of interest are Macroeconomics, Economic Growth and Development,
-and Computational Economics. I am also interested in applied econometrics, 
-machine learning and numerical methods.</P>
+<P align="justify"> I am an economist and recently completed my doctorate in applied economics at FEARP USP. I currently work at Agromove as an economist and data scientist. My main areas of interest are Data Science, Machine Learning, Econometrics, Macroeconomics and Computational Economics.</P>
 
 
 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
