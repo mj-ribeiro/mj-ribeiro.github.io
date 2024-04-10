@@ -13,8 +13,7 @@ title: Research
 
 ### Working in progress
 
-
-
+How automation affects allocation of talent ?
 
 
 ### Publications
