@@ -19,9 +19,11 @@ On the Commitment Technology for Independent Central Banks
 
 ### Publications
 
-[Índice CEPER de desenvolvimento municipal.](https://mj-ribeiro.github.io/ceper_index.pdf) With [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
 
 [Misallocation of talent, human capital formation, and development in Brazil.](https://mj-ribeiro.github.io/miss.pdf) Journal of Macroeconomics, 2023. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
+
+[Índice CEPER de desenvolvimento municipal.](https://mj-ribeiro.github.io/ceper_index.pdf) Revista Brasileira de Estudos Regionais e Urbanos, 2022.
+ With [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
 
 [Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro.](https://mj-ribeiro.github.io/eco3.pdf) Revista Brasileira de Economia, 2022. With [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR).
 
