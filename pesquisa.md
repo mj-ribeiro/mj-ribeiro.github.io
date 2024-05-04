@@ -10,10 +10,11 @@ title: Research
 [Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
 
 
-
 ### Working in progress
 
 How automation affects allocation of talent ?
+
+On the Commitment Technology for Independent Central Banks
 
 
 ### Publications
