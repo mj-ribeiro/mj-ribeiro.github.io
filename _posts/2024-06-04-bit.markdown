@@ -23,5 +23,5 @@ date:   2024-06-04
 
 
 <body>
-	<iframe height="1000" width="200%" frameborder="no" src="https://marcos-j-ribeiro.shinyapps.io/bitcoin/"> </iframe>
+	<iframe height="1000" width="500" frameborder="no" src="https://marcos-j-ribeiro.shinyapps.io/bitcoin/"> </iframe>
 </body>
