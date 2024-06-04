@@ -8,26 +8,22 @@ date:   2024-06-04
 <head>
     <meta charset="UTF-8"/>
     <style>
-        body {
+        html, body {
             margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
             background-color: hsla(195, 81%, 93%, 0.6);
             color: rgba(0, 0, 0, 1);
-            height: 300vh; /* Define a altura da tela inteira */
-            overflow: hidden; /* Evita barras de rolagem */
-        }
-        p {
-            text-align: justify;
+            overflow: hidden; /* Remove barras de rolagem */
         }
         iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
             width: 100%;
             height: 100%;
             border: none; /* Remove a borda do iframe */
         }
     </style>
-</head> 
+</head>
 
 <body>
     <iframe src="https://marcos-j-ribeiro.shinyapps.io/bitcoin/"></iframe>
