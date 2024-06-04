@@ -17,6 +17,7 @@ date:   2024-06-04
             text-align: justify;
         }
         iframe {
+            display: block; /* Garante que o iframe se comporte como um bloco */
             width: 100%; /* Ocupa toda a largura da página */
             height: 100vh; /* Ocupa toda a altura da janela de visualização */
             border: none; /* Remove a borda do iframe */
