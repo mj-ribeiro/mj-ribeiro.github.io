@@ -1,0 +1,26 @@
+---
+layout: post
+mathjax: true
+title: "Bitcoin" 
+date:   2024-06-04
+---
+
+<head>
+    <meta charset="UTF-8"/>
+    <style>
+        body{
+	    margin: 0px;
+            background-color: hsla(195,81%,93%, 0.6);
+            color: rgba(0,0,0,1);
+        }
+        p{
+            text-align: justify;
+        }
+    </style>
+</head>
+
+
+
+
+
+<iframe height="1000" width="200%" frameborder="no" src="https://marcos-j-ribeiro.shinyapps.io/bitcoin/"> </iframe>
