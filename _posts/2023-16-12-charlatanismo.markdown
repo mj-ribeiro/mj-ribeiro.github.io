@@ -24,7 +24,7 @@ date:   2023-12-16
 
 
 
-A natureza humana é intrinsecamente ambiciosa, e aqui adotaremos a premissa de que ambição significa progredir, tornar-se melhor a cada dia. Nesta discussão, explorarei como nossa busca por melhoria contínua pode nos impulsionar para o topo. Contudo, o ardente desejo de sucesso, seja financeiro, estético ou esportivo, pode nos levar a buscar caminhos alternativos e
+A natureza humana é intrinsecamente ambiciosa, e aqui adotarei a premissa de que ambição significa desejo de progredir, tornar-se melhor a cada dia. Nesta discussão, explorarei como nossa busca por melhoria contínua pode nos impulsionar para o topo. Contudo, o ardente desejo de sucesso, seja financeiro, estético ou esportivo, pode nos levar a buscar caminhos alternativos e
 relativamente mais fáceis para atingí-lo, e isso é um prato cheio para charlatões e aproveitadores.
 
 
