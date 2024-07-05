@@ -17,6 +17,7 @@ How automation affects allocation of talent ?
 
 ### Publications
 
+[Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico.](https://mj-ribeiro.github.io/ide_wd.pdf) Análise Econômica (UFRGS), 2024. With [Leonardo Cardoso](https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR).
 
 [Misallocation of talent, human capital formation, and development in Brazil.](https://mj-ribeiro.github.io/miss.pdf) Journal of Macroeconomics, 2023. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
 
@@ -27,5 +28,4 @@ How automation affects allocation of talent ?
 
 [Flutuações na aversão ao risco podem prever crises no mercado de ações brasileiro?](https://www.anpec.org.br/encontro/2021/submissao/files_I/i4-268191e82766a925f6ae83ac4715d68f.pdf) International Journal of Scientific Management and Tourism, 2023. With [Renilson Rodrigues da Silva](https://scholar.google.com/citations?user=EoRb6vQAAAAJ&hl=en).
 
-[Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico.](https://mj-ribeiro.github.io/ide_wd.pdf) (Accepted). With [Leonardo Cardoso](https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR).
 
