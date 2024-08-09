@@ -5,7 +5,7 @@ title: Research
 
 ### Working Papers
 
-[Economic Development and Spillover Effects of Intermediate Goods and Services.](https://mj-ribeiro.github.io/ii_tfp.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
+[Structural Transformation and Network Effects.](https://mj-ribeiro.github.io/ii_tfp.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR).
 
 [Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
 
