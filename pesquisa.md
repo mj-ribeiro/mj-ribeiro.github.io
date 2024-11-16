@@ -11,9 +11,14 @@ title: Research
 
 [On the Commitment Technology for Independent Central Banks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852232) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and William Leite.
 
+[Measuring Unemployment Insurance Generosity: Replication and Corrigendum](https://mj-ribeiro.github.io/gr.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and Cesar F. Sousa.
+
 ### Working in progress
 
 How automation affects allocation of talent ?
+
+Cross-Country Skill Premium in the Era of Industrial Robots and Generative AI
+
 
 ### Publications
 
@@ -26,6 +31,6 @@ How automation affects allocation of talent ?
 
 [Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro.](https://mj-ribeiro.github.io/eco3.pdf) Revista Brasileira de Economia, 2022. With [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR).
 
-[Flutuações na aversão ao risco podem prever crises no mercado de ações brasileiro?](https://www.anpec.org.br/encontro/2021/submissao/files_I/i4-268191e82766a925f6ae83ac4715d68f.pdf) International Journal of Scientific Management and Tourism, 2023. With [Renilson Rodrigues da Silva](https://scholar.google.com/citations?user=EoRb6vQAAAAJ&hl=en).
+[Flutuações na aversão ao risco podem prever crises no mercado de ações brasileiro? (https://www.anpec.org.br/encontro/2021/submissao/files_I/i4-268191e82766a925f6ae83ac4715d68f.pdf). With [Renilson Rodrigues da Silva](https://scholar.google.com/citations?user=EoRb6vQAAAAJ&hl=en).
 
 
