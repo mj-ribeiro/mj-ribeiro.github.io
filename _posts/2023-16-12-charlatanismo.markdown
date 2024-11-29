@@ -28,7 +28,7 @@ A natureza humana é intrinsecamente ambiciosa, e aqui adotarei a premissa de qu
 relativamente mais fáceis para atingí-lo, e isso é um prato cheio para charlatões e aproveitadores.
 
 
-Daniel Kahneman, laureado com o Prêmio Nobel de Economia em 2022 e autor do best-seller "Rápido e Devagar, Duas Formas de Pensar", destaca que as pessoas frequentemente utilizam heurísticas em suas análises. Essas são abordagens mentais simples que visam encontrar respostas rápidas e simplificadas para problemas complexos, exigindo o mínimo de esforço. A conhecida "lei do menor esforço" sugere que organismos tendem a buscar resultados com o mínimo de esforço possível, uma característica amplamente presente em nossos anseios por sucesso.
+Daniel Kahneman, laureado com o Prêmio Nobel de Economia em 2002 e autor do best-seller "Rápido e Devagar, Duas Formas de Pensar", destaca que as pessoas frequentemente utilizam heurísticas em suas análises. Essas são abordagens mentais simples que visam encontrar respostas rápidas e simplificadas para problemas complexos, exigindo o mínimo de esforço. A conhecida "lei do menor esforço" sugere que organismos tendem a buscar resultados com o mínimo de esforço possível, uma característica amplamente presente em nossos anseios por sucesso.
 
 
 As palavras "rápida" e "fácil" exercem grande atratividade sobre nós. Imagine alcançar a forma física desejada sem a necessidade de frequentar a academia diariamente por horas. Visualize tornar-se milionário da noite para o dia sem esforço, ou então conquistar instantaneamente a pessoa amada. Estas são as promessas dos charlatães, vendendo soluções aparentemente mágicas por preços elevados, frequentemente resultando em frustrações ao invés de sucesso.
