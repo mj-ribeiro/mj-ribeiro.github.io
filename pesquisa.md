@@ -2,10 +2,25 @@
 layout: default
 title: Research
 ---
+<head>
+    <meta name="generator" content="pandoc" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <meta charset="UTF-8"/>
+    <style>
+        body{
+            background-color: hsla(195,81%,93%, 0.6);
+            color: rgba(0,0,0,1);
+        }
+        p{
+            text-align: justify;
+        }
+    </style>
+</head>
+
 
 ### Working Papers
 
-[Structural Transformation and Network Effects.](https://mj-ribeiro.github.io/ii_tfp.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Marc Teignier Baque](https://sites.google.com/view/marcteignier). R&R Economic Modelling.
+[Structural Transformation and Network Effects.](https://mj-ribeiro.github.io/ii_tfp.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Marc Teignier Baque](https://sites.google.com/view/marcteignier). R&R - Economic Modelling.
 
 [Measuring Unemployment Insurance Generosity: Replication and Corrigendum.](https://mj-ribeiro.github.io/gr.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and Cesar F. Sousa.
 
@@ -13,7 +28,7 @@ title: Research
 
 How automation affects allocation of talent ? With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
 
-Cross-Country Skill Premium in the Era of Industrial Robots and Generative AI. [With Klaus Prettner](https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de). 
+Cross-Country Skill Premium in the Era of Industrial Robots and Generative AI. With [Klaus Prettner](https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de). 
 
 Determinants of trade in digital goods  With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Lourenço Paz](https://sites.baylor.edu/lourenco_paz/), [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/).
 
