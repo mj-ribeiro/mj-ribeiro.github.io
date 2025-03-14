@@ -30,7 +30,7 @@ How automation affects allocation of talent ? With [Fernando Barros Jr](https://
 
 Cross-Country Skill Premium in the Era of Industrial Robots and Generative AI. With [Klaus Prettner](https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de). 
 
-Determinants of trade in digital goods  With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Lourenço Paz](https://sites.baylor.edu/lourenco_paz/) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/).
+Determinants of trade in digital goods. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Lourenço Paz](https://sites.baylor.edu/lourenco_paz/) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/).
 
 ### Publications
 
