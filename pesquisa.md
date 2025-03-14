@@ -19,9 +19,9 @@ Determinants of trade in digital goods  With [Fernando Barros Jr](https://schola
 
 ### Publications
 
-[Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). 
+[Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). Estudos Econômicos (Accepted).
 
-[On the Commitment Technology for Independent Central Banks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852232) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and William Leite.
+[On the Commitment Technology for Independent Central Banks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852232) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and William Leite. International Economic Journal. (Accepted)
 
 
 [Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico.](https://mj-ribeiro.github.io/ide_wd.pdf) Análise Econômica (UFRGS), 2024. With [Leonardo Cardoso](https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR).
