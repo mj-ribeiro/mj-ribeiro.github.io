@@ -5,7 +5,7 @@ title: About
 
 ##### Welcome to my website! 
 
-<P align="justify"> I am economist and recently completed my doctorate in applied economics at FEARP USP. My main areas of interest are Data Science, Machine Learning, Econometrics, Macroeconomics and Computational Economics.</P>
+<P align="justify">I am an economist with a PhD in Applied Economics from FEARP-USP, where I currently work as a researcher and postdoctoral fellow. My main areas of interest include Data Science, Machine Learning, Econometrics, Macroeconomics and Computational Economics. In addition, I have been dedicated to investigating the impacts of automation and artificial intelligence on the economy.</P>
 
 
 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8457340D4)
