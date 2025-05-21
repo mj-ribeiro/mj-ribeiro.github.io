@@ -11,6 +11,14 @@ title: "O Brasil e o Mercado das Bets"
   <meta name="generator" content="pandoc" />
   <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
   <!-- <title>O Brasil e o Mercado das Bets: Quem é o Trouxa da História?</title>-->
+
+ <!-- Open Graph -->
+  <meta property="og:title" content="O Brasil e o Mercado das Bets" />
+  <meta property="og:description" content="Entenda como o mercado das bets opera no Brasil e por que milhões estão caindo em armadilhas financeiras." />
+  <meta property="og:image" content="https://mj-ribeiro.github.io/assets/img/bets_img.png" />
+  <meta property="og:url" content="https://mj-ribeiro.github.io/seu-post-url" />
+  <meta property="og:type" content="article" />
+
   <style>
     body {
       background-color: #f0fdfc;
