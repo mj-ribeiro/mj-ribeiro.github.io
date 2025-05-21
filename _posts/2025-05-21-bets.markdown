@@ -2,8 +2,6 @@
 layout: default
 title: "O Brasil e o Mercado das Bets"
 ---
-
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -12,7 +10,7 @@ title: "O Brasil e o Mercado das Bets"
   <meta name="description" content="Entenda como o mercado das bets opera no Brasil e por que milhões estão caindo em armadilhas financeiras." />
   <meta name="generator" content="pandoc" />
   <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-  <title>O Brasil e o Mercado das Bets: Quem é o Trouxa da História?</title>
+  <!-- <title>O Brasil e o Mercado das Bets: Quem é o Trouxa da História?</title>-->
   <style>
     body {
       background-color: #f0fdfc;
@@ -92,7 +90,7 @@ title: "O Brasil e o Mercado das Bets"
 
       <h3>🤔 Mas qual é o problema disso tudo?</h3>
       <p>
-        O problema é que ninguém te contou, e provavelmente não vai contar, é que as <em>bets</em> existem para fazer você perder seu dinheiro.
+        O problema é que ninguém te contou, e provavelmente não vai contar, é que as <em>bets</em> existem para fazer você perder seu dinheiro. Certa vez um filósofo desconhecido da internet disse:
       </p>
       <blockquote>
         "Todo dia sai um trouxa e um malandro de casa."
