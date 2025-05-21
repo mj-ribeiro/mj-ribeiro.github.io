@@ -80,6 +80,10 @@ title: "O Brasil e o Mercado das Bets"
 <body>
   <main>
     <article>
+	<div style="text-align:center;">
+  		<img src="/assets/images/bets_img.png" alt="Bets" style="max-width:100%; height:auto;" />
+	</div>
+
       <h1>O Brasil e o Mercado das Bets: Quem é o Trouxa da História?</h1>
       <p><strong>Por:</strong> Marcos Júnio Ribeiro</p>
 
