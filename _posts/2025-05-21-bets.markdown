@@ -81,7 +81,7 @@ title: "O Brasil e o Mercado das Bets"
   <main>
     <article>
 	<div style="text-align:center;">
-  		<img src="/assets/images/bets_img.png" alt="Bets" style="max-width:100%; height:auto;" />
+  		<img src="{{ '/assets/img/bets_img.png' | relative_url }}" alt="Bets" style="max-width:100%; height:auto;" />
 	</div>
 
       <h1>O Brasil e o Mercado das Bets: Quem é o Trouxa da História?</h1>
