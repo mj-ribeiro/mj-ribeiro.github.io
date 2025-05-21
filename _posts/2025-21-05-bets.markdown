@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 mathjax: true
@@ -27,7 +25,7 @@ date:   2025-05-21
 
 ## Crescimento das *bets* no Brasil
 
-Vou começar nossa prosa de hoje com uma constatação que muitos já devem suspeitar: o Brasil se tornou um dos principais mercados de apostas online do mundo. Basta abrir o computador ou o celular para ser bombardeado por dezenas de propagandas das chamadas *bets*, as casas de apostas. Atualmente, a maioria dos times da Série A do Brasileirão tem como principal patrocinador alguma *bet*. Milhares de influenciadores digitais promovem essas empresas, e as emissoras de televisão também embarcaram nessa onda, algumas, inclusive, cogitam lançar suas próprias plataformas de apostas. Segundo reportagem da *Veja*, a receita anual estimada das *bets* que operam no Brasil chega a impressionantes 4,9 bilhões de dólares.
+Vou começar nossa prosa de hoje com uma constatação que muitos de vocês já devem suspeitar: o Brasil se tornou um dos principais mercados de apostas online do mundo. Basta abrir o computador ou o celular para ser bombardeado por dezenas de propagandas das chamadas *bets*, as casas de apostas. Atualmente, a maioria dos times da Série A do Brasileirão tem como principal patrocinador alguma *bet*. Milhares de influenciadores digitais promovem essas empresas, e as emissoras de televisão também embarcaram nessa onda, algumas, inclusive, cogitam lançar suas próprias plataformas de apostas. Segundo reportagem da *Veja*, a receita anual estimada das *bets* que operam no Brasil chega a impressionantes 4,9 bilhões de dólares.
 
 
 ## Mas qual é o problema disso tudo?
