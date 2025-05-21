@@ -1,0 +1,60 @@
+
+
+---
+layout: post
+mathjax: true
+title: "O Brasil e o Mercado das Bets: Quem é o Trouxa da História?" 
+date:   2025-05-21
+---
+
+<meta name="author" content="Marcos Júnio Ribeiro" />
+
+<head>
+    <meta name="generator" content="pandoc" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <meta charset="UTF-8"/>
+    <style>
+        body{
+            background-color: hsla(195,81%,93%, 0.6);
+            color: rgba(0,0,0,1);
+        }
+        p{
+            text-align: justify;
+        }
+    </style>
+</head>
+
+
+## Crescimento das *bets* no Brasil
+
+Vou começar nossa prosa de hoje com uma constatação que muitos já devem suspeitar: o Brasil se tornou um dos principais mercados de apostas online do mundo. Basta abrir o computador ou o celular para ser bombardeado por dezenas de propagandas das chamadas *bets*, as casas de apostas. Atualmente, a maioria dos times da Série A do Brasileirão tem como principal patrocinador alguma *bet*. Milhares de influenciadores digitais promovem essas empresas, e as emissoras de televisão também embarcaram nessa onda, algumas, inclusive, cogitam lançar suas próprias plataformas de apostas. Segundo reportagem da *Veja*, a receita anual estimada das *bets* que operam no Brasil chega a impressionantes 4,9 bilhões de dólares.
+
+
+## Mas qual é o problema disso tudo?
+
+O problema é que ninguém te contou, e provavelmente não vai contar, é que as *bets* existem para fazer você perder seu dinheiro. Como disse um sábio desconhecido da internet: "Todo dia sai um trouxa e um malandro de casa." Seu influenciador favorito vai lucrar, as emissoras de TV vão lucrar, seu time do coração vai lucrar, e você? Vai pagar a conta. É duro dizer, mas se você aposta em *bets*, você é o trouxa. E o seu influenciador favorito está te enganando.
+
+## Como funcionam as bets?
+
+Para entender por quê, vejamos como funciona uma aposta.
+
+Imagine um jogo de cara ou coroa, em que cada resultado tem 50% de chance. A aposta justa pagaria 2 vezes o valor apostado (1/0,5 = 2). No entanto, as *bets* oferecem odds menores, como 1,91. Essa diferença é a chamada **margem da casa** (*overround*). Isso significa que, mesmo em jogos equilibrados, o apostador tem um ganho esperado negativo — no exemplo, -0,045. Em outras palavras, se você apostar repetidamente, suas perdas serão inevitáveis. Afinal, em qualquer cassino do mundo vale a velha máxima: "Quando você joga contra a casa, a casa sempre vence." Em apostas esportivas o funcionamento é bastante semelhante.
+
+## A armadilha da ilusão
+
+A baixa escolaridade média da população brasileira, especialmente em comparação aos países desenvolvidos, cria um terreno fértil para a proliferação desse tipo de negócio. Em um artigo sobre o charlatanismo, afirmei que promessas de ganhos fáceis sempre atraem os desavisados, e os prejuízos aparecem no longo prazo. Uma reportagem do *G1* mostra que 42% dos brasileiros que dizem apostar estão endividados, e um terço deles está fora do mercado de trabalho. Agora imagine: uma pessoa pega dinheiro emprestado a juros altos para apostar e perde tudo. Essa é, literalmente, a receita da ruína.
+
+Segundo o *Valor Investe*, cerca de 23 milhões de brasileiros apostam em *bets*, mais do que o número de pessoas que investem em bolsa de valores ou em CDBs. Isso mostra a gravidade da situação.
+
+## Educação é o caminho
+
+Na minha visão, o caminho mais promissor para frear o avanço das *bets* é a **educação**, especialmente a **educação financeira**. Os professores precisam abrir as cabeças dos alunos e colocar lá dentro um letreiro com os seguintes dizeres: **"NÃO SEJA O TROUXA!"**
+
+
+---
+
+### Fontes:
+
+- Veja: [O jogo de estratégia das bets](https://veja.abril.com.br/economia/o-jogo-de-estrategia-das-bets-para-crescer-ainda-mais-no-brasil/)  
+- G1: [42% dos brasileiros que apostam estão endividados](https://g1.globo.com/economia/noticia/2024/10/01/bets-42percent-dos-brasileiros-que-dizem-apostar-estao-endividados-e-quase-um-terco-esta-fora-do-mercado-de-trabalho-diz-pesquisa-do-senado.ghtml)  
+- Valor Investe: [23 milhões de brasileiros apostam em bets](https://valorinveste.globo.com/educacao-financeira/noticia/2025/04/30/cerca-de-23-milhoes-de-brasileiros-apostam-em-bets-mais-do-que-compram-cdbs-e-bolsa.ghtml)
