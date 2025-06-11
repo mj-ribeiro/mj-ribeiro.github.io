@@ -35,7 +35,7 @@ Determinants of trade in digital goods. With [Fernando Barros Jr](https://schola
 
 ### Publications
 
-[Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). Estudos Econômicos, 2025 (Accepted).
+[Evolução dos retornos da escolaridade no Brasil.](https://mj-ribeiro.github.io/evol_rets.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Luciano Nakabashi](https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR). Estudos Econômicos, 2025.
 
 [Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes](https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=) International Economic Journal, 2025. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and William Leite.
 
