@@ -22,6 +22,8 @@ title: Research
 
 [The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI](https://mj-ribeiro.github.io/skill_premium.pdf). With [Klaus Prettner](https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de). 
 
+[Economic complexity and robot adoption](https://mj-ribeiro.github.io/economic_complexity.pdf). With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
+
 [Structural Transformation and Network Effects.](https://mj-ribeiro.github.io/ii_tfp.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Marc Teignier Baque](https://sites.google.com/view/marcteignier). R&R - Economic Modelling.
 
 [Measuring Unemployment Insurance Generosity: Replication and Corrigendum.](https://mj-ribeiro.github.io/gr.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and Cesar F. Sousa.
@@ -30,7 +32,6 @@ title: Research
 
 How automation affects allocation of talent ? With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
 
-Economic complexity and robot density. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
 
 
 Determinants of trade in digital goods. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Lourenço Paz](https://sites.baylor.edu/lourenco_paz/) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/).
