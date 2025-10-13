@@ -29,7 +29,7 @@ title: Research
 
 ### Working in progress
 
-How automation affects allocation of talent ? With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
+How automation affects allocation of talent ? With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Rafael Serrano](https://rafserqui.github.io/).
 
 Determinants of trade in digital goods. With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Lourenço Paz](https://sites.baylor.edu/lourenco_paz/) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/).
 
