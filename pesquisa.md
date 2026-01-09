@@ -36,7 +36,7 @@ Determinants of trade in digital goods. With [Fernando Barros Jr](https://schola
 
 #### International Journals
 
-[Production Networks and Structural Transformation.](https://doi.org/10.1016/j.econmod.2025.107461) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Marc Teignier Baque](https://sites.google.com/view/marcteignier). Economic Modelling, 2025. 
+[Production Networks and Structural Transformation.](https://doi.org/10.1016/j.econmod.2025.107461) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ), [Bruno Delalibera](https://sites.google.com/view/brunodelalibera) and [Marc Teignier Baque](https://sites.google.com/view/marcteignier). Economic Modelling, 2026. 
 
 [Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes](https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and William Leite. International Economic Journal, 2025.
 
