@@ -17,11 +17,9 @@ title: About
 
 <div class="box">
     <img src="\assets\img\mjr_rj.jpg"/>
-    <span> ENABER 2019 </span>
 </div>
 <div class="box">
-    <img src="\assets\img\anpec2.jpg"/>
-    <span> ANPEC 2022 </span>
+    <img src="\assets\img\santos.jpg"/>
 </div>
 
 <style>
