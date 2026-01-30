@@ -19,7 +19,7 @@ title: About
 </div>
 
 <div class="box">
-    <img src="\assets\img\barcelona.jpg"/>
+    <img src="\assets\img\barcelona.JPEG"/>
 </div>
 
 <style>
