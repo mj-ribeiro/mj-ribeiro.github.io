@@ -13,13 +13,13 @@ title: About
 [CV](https://mj-ribeiro.github.io/cv.pdf)
 
 
-##### Photos at congresses
 
 <div class="box">
     <img src="\assets\img\mjr_rj.jpg"/>
 </div>
+
 <div class="box">
-    <img src="\assets\img\santos.jpg"/>
+    <img src="\assets\img\barcelona.jpg"/>
 </div>
 
 <style>
@@ -28,8 +28,6 @@ div.box {
 	display: inline-block;
 	right: 12px;
     }
-
-
 </style>
 
 
