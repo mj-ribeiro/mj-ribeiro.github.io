@@ -13,23 +13,29 @@ title: About
 [CV](https://mj-ribeiro.github.io/cv.pdf)
 
 
-
 <div class="box">
-    <img src="\assets\img\mjr_rj.jpg"/>
+    <img src="/assets/img/mjr_rj.jpg" alt="">
 </div>
 
 <div class="box">
-    <img src="\assets\img\barcelona.JPEG"/>
+    <img src="/assets/img/barcelona.JPEG" alt="">
 </div>
 
 <style>
-div.box {
-	width: 490px;
-	display: inline-block;
-	right: 12px;
-    }
-</style>
+.box {
+    width: 490px;
+    height: 320px;        /* ambas exatamente com a mesma altura */
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+}
 
+.box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;   /* NÃO deforma, só corta */
+}
+</style>
 
 
 
