@@ -22,9 +22,9 @@ title: Research
 
 [The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI](https://mj-ribeiro.github.io/skill_premium.pdf). With [Klaus Prettner](https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de). R&R - World Development.
 
-[Economic complexity and robot adoption](https://mj-ribeiro.github.io/economic_complexity.pdf). With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera).
+[Economic complexity and robot adoption](https://mj-ribeiro.github.io/economic_complexity.pdf). With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and [Bruno Delalibera](https://sites.google.com/view/brunodelalibera). R&R - Applied Economics Letters.
 
-[Measuring Unemployment Insurance Generosity: Replication and Corrigendum.](https://mj-ribeiro.github.io/gr.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and Cesar F. Sousa.
+[Measuring Unemployment Insurance Generosity: Replication and Corrigendum.](https://mj-ribeiro.github.io/gr.pdf) With [Fernando Barros Jr](https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ) and Cesar F. Sousa. R&R - Journal of Comments and Replications in Economics.
 
 ### Working in progress
 
