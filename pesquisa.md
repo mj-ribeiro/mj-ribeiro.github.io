@@ -69,9 +69,9 @@ title: Research
 
 <div class="research-page">
 
-## Publications
+<h2>Publications</h2>
 
-### International Journals
+<h3>International Journals</h3>
 
 <ul class="paper-list">
     <li>
@@ -97,7 +97,8 @@ title: Research
     </li>
 </ul>
 
-### Brazilian Journals
+
+<h3>Brazilian Journals</h3>
 
 <ul class="paper-list">
     <li>
@@ -126,7 +127,8 @@ title: Research
     </li>
 </ul>
 
-## Working Papers
+
+<h2>Working Papers</h2>
 
 <ul class="paper-list">
     <li>
@@ -149,7 +151,7 @@ title: Research
     </li>
 </ul>
 
-## Work in Progress
+<h2>Work in Progress</h2>
 
 <ul class="paper-list">
     <li>
