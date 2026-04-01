@@ -75,6 +75,14 @@ title: Research
 
 <ul class="paper-list">
     <li>
+        <span class="paper-title"><a href="https://mj-ribeiro.github.io/economic_complexity.pdf">Economic Complexity and Robot Adoption</a></span>.
+	<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2651981">Link</a>.<br>
+        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
+        <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
+	<em>Applied Economics Letters</em>, 2026.
+    </li>
+
+    <li>
         <span class="paper-title"><a href="https://doi.org/10.1016/j.econmod.2025.107461">Production Networks and Structural Transformation</a></span>.<br>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>, and 
@@ -135,13 +143,6 @@ title: Research
         <span class="paper-title"><a href="https://mj-ribeiro.github.io/skill_premium.pdf">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</a></span>.<br>
         With <a href="https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de">Klaus Prettner</a>.<br>
         <span class="paper-status">Revise and Resubmit, World Development.</span>
-    </li>
-
-    <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/economic_complexity.pdf">Economic Complexity and Robot Adoption</a></span>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
-        <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
-        <span class="paper-status">Revise and Resubmit, Applied Economics Letters.</span>
     </li>
 
     <li>
