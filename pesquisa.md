@@ -75,7 +75,8 @@ title: Research
 
 <ul class="paper-list">
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/economic_complexity.pdf">Economic Complexity and Robot Adoption</a></span>.
+        <span class="paper-title">Economic Complexity and Robot Adoption</a></span>.
+	<a href="https://mj-ribeiro.github.io/economic_complexity.pdf">(<em>Preprint</em>)</a>.<br>
 	<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2651981">(<em>Link</em>)</a>.<br>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
