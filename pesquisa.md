@@ -87,7 +87,6 @@ title: Research
         <span class="paper-title">Production Networks and Structural Transformation</span>.
 	    <a href="https://mj-ribeiro.github.io/structural_transf.pdf">[<em>Preprint</em>]</a>
     	<a href="https://doi.org/10.1016/j.econmod.2025.107461">[<em>Link</em>]</a>.<br>
-	    <a href="https://doi.org/10.1016/j.econmod.2025.107461">
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>, and 
         <a href="https://sites.google.com/view/marcteignier">Marc Teignier Baque</a>.<br>
