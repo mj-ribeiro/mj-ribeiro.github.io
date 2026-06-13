@@ -84,7 +84,7 @@ title: Research
     </li>
 
     <li>
-        <span class="paper-title">Production Networks and Structural Transformation</a></span>.
+        <span class="paper-title">Production Networks and Structural Transformation</span>.
 	    <a href="https://mj-ribeiro.github.io/structural_transf.pdf">[<em>Preprint</em>]</a>
     	<a href="https://doi.org/10.1016/j.econmod.2025.107461">[<em>Link</em>]</a>.<br>
 	    <a href="https://doi.org/10.1016/j.econmod.2025.107461">
