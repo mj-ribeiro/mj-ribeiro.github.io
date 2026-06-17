@@ -3,11 +3,13 @@ layout: default
 title: Research
 ---
 
+
 <style>
 .research-page {
-    max-width: 950px;
+    max-width: 850px;              /* smaller content width = larger margins */
     margin: 0 auto;
-    padding: 20px 10px 40px 10px;
+    padding: 30px 35px 50px 35px;  /* top, right, bottom, left */
+    font-size: 0.95rem;            /* slightly smaller font */
 }
 
 .research-page h1,
@@ -17,12 +19,18 @@ title: Research
     margin-bottom: 0.8rem;
 }
 
+.research-page h1 {
+    font-size: 1.8rem;
+}
+
 .research-page h2 {
+    font-size: 1.35rem;
     border-bottom: 2px solid #d9d9d9;
     padding-bottom: 0.3rem;
 }
 
 .research-page h3 {
+    font-size: 1.1rem;
     margin-top: 1.4rem;
     color: #333;
 }
@@ -35,7 +43,7 @@ title: Research
 
 .paper-list li {
     margin-bottom: 1.2rem;
-    line-height: 1.65;
+    line-height: 1.6;
 }
 
 .paper-title {
@@ -62,10 +70,25 @@ title: Research
 
 @media (max-width: 768px) {
     .research-page {
-        padding: 10px 5px 30px 5px;
+        max-width: 100%;
+        padding: 15px 18px 35px 18px;
+        font-size: 0.93rem;
+    }
+
+    .research-page h1 {
+        font-size: 1.6rem;
+    }
+
+    .research-page h2 {
+        font-size: 1.25rem;
+    }
+
+    .research-page h3 {
+        font-size: 1.05rem;
     }
 }
 </style>
+
 
 <div class="research-page">
 
@@ -116,26 +139,30 @@ title: Research
 
 <ul class="paper-list">
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/evol_rets.pdf">Evolução dos retornos da escolaridade no Brasil</a></span>.<br>
+        <span class="paper-title">Evolução dos retornos da escolaridade no Brasil</span>.<br>
+        <a href="https://mj-ribeiro.github.io/evol_rets.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
         <em>Estudos Econômicos</em>, 2025.
     </li>
 
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/ide_wd.pdf">Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico</a></span>.<br>
+        <span class="paper-title">Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico</span>.<br>
+        <a href="https://mj-ribeiro.github.io/ide_wd.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR">Leonardo Cardoso</a>.<br>
         <em>Análise Econômica (UFRGS)</em>, 2024.
     </li>
 
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/ceper_index.pdf">Índice CEPER de desenvolvimento municipal</a></span>.<br>
+        <span class="paper-title">Índice CEPER de desenvolvimento municipal</span>.<br>
+        <a href="https://mj-ribeiro.github.io/ceper_index.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>, Vitor Zambello, and Rafael Perez.<br>
         <em>Revista Brasileira de Estudos Regionais e Urbanos</em>, 2022.
     </li>
 
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/eco3.pdf">Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro</a></span>.<br>
+        <span class="paper-title">Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro</span>.<br>
+        <a href="https://mj-ribeiro.github.io/eco3.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
         <em>Revista Brasileira de Economia</em>, 2022.
     </li>
@@ -157,6 +184,14 @@ title: Research
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and Cesar F. Sousa.<br>
         <span class="paper-status">Revise and Resubmit, Journal of Comments and Replications in Economics.</span>
     </li>
+
+     <li>
+        <span class="paper-title">Bits vs. Atoms: Drivers of Digital and Traditional Goods Trade</span><br>
+        <a href="https://mj-ribeiro.github.io/digital_trade.pdf">[<em>Link</em>]</a>.<br>
+        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
+        <a href="https://sites.baylor.edu/lourenco_paz/">Lourenço Paz</a>, and 
+        <a href="https://sites.google.com/site/fabiogomesecon/">Fábio Gomes</a>.
+    </li>
 </ul>
 
 <h4>Work in Progress</h4>
@@ -169,12 +204,6 @@ title: Research
         <a href="https://rafserqui.github.io/">Rafael Serrano</a>.
     </li>
 
-    <li>
-        <span class="paper-title">Bits vs. Atoms: Drivers of Digital and Traditional Goods Trade</span><br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
-        <a href="https://sites.baylor.edu/lourenco_paz/">Lourenço Paz</a>, and 
-        <a href="https://sites.google.com/site/fabiogomesecon/">Fábio Gomes</a>.
-    </li>
 </ul>
 
 </div>
