@@ -94,13 +94,16 @@ title: Research
     </li>
 
     <li>
-        <span class="paper-title"><a href="https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=">Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes</a></span>.<br>
+        <span class="paper-title">Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes</a></span>.
+	    <a href="https://mj-ribeiro.github.io/non_linear.pdf">[<em>Preprint</em>]</a>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=">[<em>Link</em>]</a>.<br>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and William Leite.<br>
         <em>International Economic Journal</em>, 2025.
     </li>
 
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/miss.pdf">Misallocation of Talent, Human Capital Formation, and Development in Brazil</a></span>.<br>
+        <span class="paper-title">Misallocation of Talent, Human Capital Formation, and Development in Brazil</a></span>.
+        <a href="https://mj-ribeiro.github.io/miss.pdf">[<em>Link</em>]</a>.
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>, and 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
