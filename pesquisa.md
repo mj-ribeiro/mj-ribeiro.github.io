@@ -139,7 +139,7 @@ title: Research
 
 <ul class="paper-list">
     <li>
-        <span class="paper-title">Evolução dos retornos da escolaridade no Brasil</span>.<br>
+        <span class="paper-title">Evolução dos retornos da escolaridade no Brasil</span>.
         <a href="https://mj-ribeiro.github.io/evol_rets.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
@@ -147,21 +147,21 @@ title: Research
     </li>
 
     <li>
-        <span class="paper-title">Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico</span>.<br>
+        <span class="paper-title">Efeitos do Investimento Estrangeiro Direto e das Características dos Países Hospedeiros no Crescimento Econômico</span>.
         <a href="https://mj-ribeiro.github.io/ide_wd.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com/citations?user=3CVN9PIAAAAJ&hl=pt-BR">Leonardo Cardoso</a>.<br>
         <em>Análise Econômica (UFRGS)</em>, 2024.
     </li>
 
     <li>
-        <span class="paper-title">Índice CEPER de desenvolvimento municipal</span>.<br>
+        <span class="paper-title">Índice CEPER de desenvolvimento municipal</span>.
         <a href="https://mj-ribeiro.github.io/ceper_index.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>, Vitor Zambello, and Rafael Perez.<br>
         <em>Revista Brasileira de Estudos Regionais e Urbanos</em>, 2022.
     </li>
 
     <li>
-        <span class="paper-title">Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro</span>.<br>
+        <span class="paper-title">Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro</span>.
         <a href="https://mj-ribeiro.github.io/eco3.pdf">[<em>Link</em>]</a>
         With <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
         <em>Revista Brasileira de Economia</em>, 2022.
