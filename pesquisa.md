@@ -94,7 +94,7 @@ title: Research
     </li>
 
     <li>
-        <span class="paper-title">Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes</a></span>.
+        <span class="paper-title">Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes</span>.
 	    <a href="https://mj-ribeiro.github.io/non_linear.pdf">[<em>Preprint</em>]</a>
         <a href="https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=">[<em>Link</em>]</a>.<br>
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and William Leite.<br>
@@ -102,7 +102,7 @@ title: Research
     </li>
 
     <li>
-        <span class="paper-title">Misallocation of Talent, Human Capital Formation, and Development in Brazil</a></span>.
+        <span class="paper-title">Misallocation of Talent, Human Capital Formation, and Development in Brazil</span>.
         <a href="https://mj-ribeiro.github.io/miss.pdf">[<em>Link</em>]</a>.
         With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>, and 
@@ -146,8 +146,9 @@ title: Research
 
 <ul class="paper-list">
     <li>
-        <span class="paper-title"><a href="https://mj-ribeiro.github.io/skill_premium.pdf">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</a></span>.<br>
-        With <a href="https://scholar.google.de/citations?user=fxzdSBIAAAAJ&hl=de">Klaus Prettner</a>.<br>
+        <span class="paper-title">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</span>.<br>
+        <a href="https://mj-ribeiro.github.io/skill_premium.pdf">[<em>Link</em>]</a>.<br>
+        With <a href="https://sites.google.com/view/klausprettner/home">Klaus Prettner</a>.<br>
         <span class="paper-status">Revise and Resubmit, World Development.</span>
     </li>
 
