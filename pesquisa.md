@@ -162,7 +162,7 @@ title: Research
 
     <li>
         <span class="paper-title">Investimento Estrangeiro Direto: greenfield por fusões e aquisições, volatilidade e seus efeitos no crescimento econômico brasileiro</span>.
-        <   a href="https://mj-ribeiro.github.io/eco3.pdf">[<em>Link</em>]</a><br>
+        <a href="https://mj-ribeiro.github.io/eco3.pdf">[<em>Link</em>]</a><br>
         With <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
         <em>Revista Brasileira de Economia</em>, 2022.
     </li>
