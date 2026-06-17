@@ -6,10 +6,10 @@ title: Research
 
 <style>
 .research-page {
-    max-width: 850px;              /* smaller content width = larger margins */
+    max-width: 780px;              /* smaller content width = larger margins */
     margin: 0 auto;
-    padding: 30px 35px 50px 35px;  /* top, right, bottom, left */
-    font-size: 0.95rem;            /* slightly smaller font */
+    padding: 35px 50px 55px 50px;  /* top, right, bottom, left */
+    font-size: 0.92rem;            /* slightly smaller font */
 }
 
 .research-page h1,
@@ -71,20 +71,20 @@ title: Research
 @media (max-width: 768px) {
     .research-page {
         max-width: 100%;
-        padding: 15px 18px 35px 18px;
-        font-size: 0.93rem;
+        padding: 15px 22px 35px 22px;
+        font-size: 0.91rem;
     }
 
     .research-page h1 {
-        font-size: 1.6rem;
+        font-size: 1.55rem;
     }
 
     .research-page h2 {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
     }
 
     .research-page h3 {
-        font-size: 1.05rem;
+        font-size: 1rem;
     }
 }
 </style>
