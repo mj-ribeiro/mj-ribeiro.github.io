@@ -9,7 +9,7 @@ title: Research
     max-width: 780px;              /* smaller content width = larger margins */
     margin: 0 auto;
     padding: 35px 50px 55px 50px;  /* top, right, bottom, left */
-    font-size: 0.92rem;            /* slightly smaller font */
+    font-size: 0.98rem;            /* slightly smaller font */
 }
 
 .research-page h1,
@@ -20,17 +20,17 @@ title: Research
 }
 
 .research-page h1 {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
 }
 
 .research-page h2 {
-    font-size: 1.35rem;
+    font-size: 1.45rem;
     border-bottom: 2px solid #d9d9d9;
     padding-bottom: 0.3rem;
 }
 
 .research-page h3 {
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     margin-top: 1.4rem;
     color: #333;
 }
