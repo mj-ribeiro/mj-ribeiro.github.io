@@ -101,7 +101,7 @@ title: Research
         <span class="paper-title">Economic Complexity and Robot Adoption</span>.
         <a href="https://mj-ribeiro.github.io/economic_complexity.pdf">[<em>Preprint</em>]</a>
         <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2651981">[<em>Link</em>]</a>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
         <em>Applied Economics Letters</em>, 2026.
     </li>
@@ -110,7 +110,7 @@ title: Research
         <span class="paper-title">Production Networks and Structural Transformation</span>.
 	    <a href="https://mj-ribeiro.github.io/structural_transf.pdf">[<em>Preprint</em>]</a>
     	<a href="https://doi.org/10.1016/j.econmod.2025.107461">[<em>Link</em>]</a>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a>, 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>, and 
         <a href="https://sites.google.com/view/marcteignier">Marc Teignier Baque</a>.<br>
         <em>Economic Modelling</em>, 2026.
@@ -120,14 +120,14 @@ title: Research
         <span class="paper-title">Non-linear Incentives and Intertemporal Consistency in Inflation Targeting Regimes</span>.
 	    <a href="https://mj-ribeiro.github.io/non_linear.pdf">[<em>Preprint</em>]</a>
         <a href="https://www.tandfonline.com/doi/full/10.1080/10168737.2025.2481624?src=">[<em>Link</em>]</a>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and William Leite.<br>
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and William Leite.<br>
         <em>International Economic Journal</em>, 2025.
     </li>
 
     <li>
         <span class="paper-title">Misallocation of Talent, Human Capital Formation, and Development in Brazil</span>.
         <a href="https://mj-ribeiro.github.io/miss.pdf">[<em>Link</em>]</a>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a>, 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>, and 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>.<br>
         <em>Journal of Macroeconomics</em>, 2023.
@@ -141,7 +141,7 @@ title: Research
     <li>
         <span class="paper-title">Evolução dos retornos da escolaridade no Brasil</span>.
         <a href="https://mj-ribeiro.github.io/evol_rets.pdf">[<em>Link</em>]</a><br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and 
         <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=pt-BR">Luciano Nakabashi</a>.<br>
         <em>Estudos Econômicos</em>, 2025.
     </li>
@@ -182,7 +182,7 @@ title: Research
     <li>
         <span class="paper-title">Measuring Unemployment Insurance Generosity: Replication and Corrigendum</span>.
         <a href="https://mj-ribeiro.github.io/gr.pdf">[<em>Link</em>]</a>.<br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a> and Cesar F. Sousa.<br>
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and Cesar F. Sousa.<br>
         <span class="paper-status">Accepted, Journal of Comments and Replications in Economics.</span>
     </li>
 
@@ -193,6 +193,14 @@ title: Research
         <a href="https://sites.baylor.edu/lourenco_paz/">Lourenço Paz</a>, and 
         <a href="https://sites.google.com/site/fabiogomesecon/">Fábio Gomes</a>.
     </li>
+
+    <li>
+        <span class="paper-title">From Local Gains to Aggregate Effects: Evaluating ICT Subsidies in Brazil</span>
+        <a href="https://mj-ribeiro.github.io/funttel.pdf">[<em>Link</em>]</a>.<br>
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and 
+        <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a> and Yuri Passuelo.<br>
+    </li>
+
 </ul>
 
 <h4>Work in Progress</h4>
