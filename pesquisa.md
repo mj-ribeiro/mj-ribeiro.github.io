@@ -197,7 +197,7 @@ title: Research
     <li>
         <span class="paper-title">From Local Gains to Aggregate Effects: Evaluating ICT Subsidies in Brazil</span>
         <a href="https://mj-ribeiro.github.io/funttel.pdf">[<em>Link</em>]</a>.<br>
-        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a> and 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a>, 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a> and Yuri Passuelo.<br>
     </li>
 
@@ -208,7 +208,7 @@ title: Research
 <ul class="paper-list">
     <li>
         <span class="paper-title">How Automation Affects the Allocation of Talent?</span><br>
-        With <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=o6FHHYkAAAAJ">Fernando Barros Jr</a>, 
+        With <a href="https://sites.google.com/view/fernandobarros/home?authuser=0">Fernando Barros Jr</a>, 
         <a href="https://sites.google.com/view/brunodelalibera">Bruno Delalibera</a>, and 
         <a href="https://rafserqui.github.io/">Rafael Serrano</a>.
     </li>
