@@ -176,7 +176,7 @@ title: Research
         <span class="paper-title">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</span>.
         <a href="https://mj-ribeiro.github.io/skill_premium.pdf">[<em>Link</em>]</a>.<br>
         With <a href="https://sites.google.com/view/klausprettner/home">Klaus Prettner</a>.<br>
-        <span class="paper-status">Revise and Resubmit, World Development.</span>
+        <span class="paper-status">Accepted, World Development.</span>
     </li>
 
     <li>
