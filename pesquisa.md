@@ -97,6 +97,14 @@ title: Research
 <h5>International Journals</h5>
 
     <ul class="paper-list">
+
+    <li>
+        <span class="paper-title">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</span>.
+        <a href="https://www.sciencedirect.com/science/article/pii/S0305750X26002287">[<em>Link</em>]</a>.<br>
+        With <a href="https://sites.google.com/view/klausprettner/home">Klaus Prettner</a>.<br>
+        <em>World Development</em>, 2026.
+    </li>
+
     <li>
         <span class="paper-title">Economic Complexity and Robot Adoption</span>.
         <a href="https://mj-ribeiro.github.io/economic_complexity.pdf">[<em>Preprint</em>]</a>
@@ -172,12 +180,6 @@ title: Research
 <h4>Working Papers</h4>
 
 <ul class="paper-list">
-    <li>
-        <span class="paper-title">The Skill Premium Across Countries in the Era of Industrial Robots and Generative AI</span>.
-        <a href="https://mj-ribeiro.github.io/skill_premium.pdf">[<em>Link</em>]</a>.<br>
-        With <a href="https://sites.google.com/view/klausprettner/home">Klaus Prettner</a>.<br>
-        <span class="paper-status">Accepted, World Development.</span>
-    </li>
 
     <li>
         <span class="paper-title">Measuring Unemployment Insurance Generosity: Replication and Corrigendum</span>.
