@@ -215,6 +215,12 @@ title: Research
         <a href="https://rafserqui.github.io/">Rafael Serrano</a>.
     </li>
 
+    <li>
+        <span class="paper-title">Automation, labor and the elasticity of substitution: From industry-level estimates to aggregate implications</span><br>
+        With <a href="https://sites.google.com/view/klausprettner/home">Klaus Prettner</a>.<br>
+    </li>
+
+
 </ul>
 
 </div>
